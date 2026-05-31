@@ -4,7 +4,7 @@
   <img width="130" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/722.gif" alt="Rowlet" />
   <h1>Anh Khoi Le</h1>
   <p><b>🌱 Software Engineering student · UIT, VNU-HCM · Ho Chi Minh City</b></p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4E9F3D&center=true&vCenter=true&width=640&lines=Local-first+LLM+tools+for+macOS;Cross-platform+apps+in+Flutter+%26+the+web;Building+small,+polished,+often+owl-themed+things" alt="What I build" />
+  <p><b>🦉 Local LLMs · macOS · Flutter · Web</b></p>
 </div>
 
 ---
