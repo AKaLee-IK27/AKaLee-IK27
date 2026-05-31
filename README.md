@@ -25,12 +25,6 @@ A mock-exam platform for the Zalo Tech Fresher test — 100 technical and 30 apt
 **[second-brain](https://github.com/AKaLee-IK27/second-brain)** · TypeScript · React<br>
 A read-only dashboard that turns local AI-session logs into a navigable knowledge graph — full-text search, backlinks, and live updates over WebSocket.
 
-## 📈 Contribution graph
-
-<div align="center">
-  <img width="100%" src="https://ghchart.rshah.org/4E9F3D/AKaLee-IK27" alt="Anh Khoi Le's contribution graph" />
-</div>
-
 ## 🧰 Tools I reach for
 
 <div align="center">
