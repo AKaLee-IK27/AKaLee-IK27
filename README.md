@@ -1,13 +1,10 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4E9F3D,100:2C5F2D&height=200&section=header&text=Anh%20Khoi%20Le&fontColor=ffffff&fontSize=46&fontAlignY=40&desc=Software%20Engineering%20Student%20%C2%B7%20UIT,%20VNU-HCM&descSize=16&descAlignY=60" width="100%" alt="Anh Khoi Le" />
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/722.gif" width="120" alt="Rowlet, my mascot" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4E9F3D&center=true&vCenter=true&width=640&lines=Local-first+LLM+tools+for+macOS;Cross-platform+apps+in+Flutter+%26+the+web;Building+small,+polished,+often+owl-themed+things" alt="What I build" />
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4E9F3D,100:2C5F2D&height=150&section=header" alt="" />
+  <br/>
+  <img width="130" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/722.gif" alt="Rowlet" />
+  <h1>Anh Khoi Le</h1>
+  <p><b>🌱 Software Engineering student · UIT, VNU-HCM · Ho Chi Minh City</b></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4E9F3D&center=true&vCenter=true&width=640&lines=Local-first+LLM+tools+for+macOS;Cross-platform+apps+in+Flutter+%26+the+web;Building+small,+polished,+often+owl-themed+things" alt="What I build" />
 </div>
 
 ---
@@ -51,5 +48,6 @@ Comfortable moving across the stack; going deeper right now on Swift/SwiftUI and
 
 [![Gmail](https://img.shields.io/badge/khoile0908540@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khoile0908540@gmail.com)
 [![GitHub](https://img.shields.io/badge/@AKaLee--IK27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AKaLee-IK27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akl0101)
 
 </div>
