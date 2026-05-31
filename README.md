@@ -28,11 +28,7 @@ A read-only dashboard that turns local AI-session logs into a navigable knowledg
 ## 📈 Contribution graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKaLee-IK27/AKaLee-IK27/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKaLee-IK27/AKaLee-IK27/output/github-snake.svg" />
-    <img alt="My contribution snake animation" src="https://raw.githubusercontent.com/AKaLee-IK27/AKaLee-IK27/output/github-snake.svg" width="100%" />
-  </picture>
+  <img width="100%" src="https://ghchart.rshah.org/4E9F3D/AKaLee-IK27" alt="Anh Khoi Le's contribution graph" />
 </div>
 
 ## 🧰 Tools I reach for
