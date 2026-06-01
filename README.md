@@ -5,6 +5,7 @@
   <h1>Anh Khoi Le</h1>
   <p><b>🌱 Software Engineering student · UIT, VNU-HCM · Ho Chi Minh City</b></p>
   <p><b>🦉 Local LLMs · macOS · Flutter · Web</b></p>
+  <p><i>Turning local AI models, and the agents that wield them, into calm everyday tools.</i></p>
 </div>
 
 ---
