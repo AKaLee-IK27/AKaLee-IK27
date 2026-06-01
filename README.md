@@ -32,7 +32,6 @@ I build small, polished tools — lately local-first LLM utilities for macOS, al
 
 Governing a Claude + Pi coding fleet: one rule source, a destructive-op safety rail, and a bounded memory design.
 
-![stars](https://img.shields.io/github/stars/AKaLee-IK27/agent-harness?style=flat-square&color=4E9F3D&labelColor=2C5F2D)
 ![language](https://img.shields.io/github/languages/top/AKaLee-IK27/agent-harness?style=flat-square&color=4E9F3D&labelColor=2C5F2D)
 ![last commit](https://img.shields.io/github/last-commit/AKaLee-IK27/agent-harness?style=flat-square&color=4E9F3D&labelColor=2C5F2D)
 
@@ -43,7 +42,6 @@ Governing a Claude + Pi coding fleet: one rule source, a destructive-op safety r
 
 A local-LLM rewriter for macOS: select text, press a hotkey, and it is rewritten in place with an inline diff. On-device, nothing leaves the machine.
 
-![stars](https://img.shields.io/github/stars/AKaLee-IK27/owlet?style=flat-square&color=4E9F3D&labelColor=2C5F2D)
 ![language](https://img.shields.io/github/languages/top/AKaLee-IK27/owlet?style=flat-square&color=4E9F3D&labelColor=2C5F2D)
 ![last commit](https://img.shields.io/github/last-commit/AKaLee-IK27/owlet?style=flat-square&color=4E9F3D&labelColor=2C5F2D)
 
