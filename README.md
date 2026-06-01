@@ -25,6 +25,13 @@ A mock-exam platform for the Zalo Tech Fresher test — 100 technical and 30 apt
 **[second-brain](https://github.com/AKaLee-IK27/second-brain)** · TypeScript · React<br>
 A read-only dashboard that turns local AI-session logs into a navigable knowledge graph — full-text search, backlinks, and live updates over WebSocket.
 
+## 🤖 Agentic engineering
+
+A lot of my recent work runs through AI coding agents, and I care as much about *governing* them as using them. I keep Claude Code and Pi on one shared source of behavioral rules, behind a hook that holds destructive commands for confirmation, with a typed long-term memory they share across sessions — edit a rule once and every agent stays in lockstep.
+
+**[agent-harness](https://github.com/AKaLee-IK27/agent-harness)** · Bash · Python<br>
+The sanitized, documented version of that setup: one source of truth for a couple of coding agents, a destructive-op safety rail, and a bounded memory design.
+
 ## 🧰 Tools I reach for
 
 <div align="center">
@@ -50,4 +57,8 @@ Comfortable moving across the stack; going deeper right now on Swift/SwiftUI and
 [![GitHub](https://img.shields.io/badge/@AKaLee--IK27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AKaLee-IK27)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akl0101)
 
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5F2D,100:4E9F3D&height=120&section=footer" alt="" />
 </div>
