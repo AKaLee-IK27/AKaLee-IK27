@@ -24,10 +24,32 @@ I build small, polished tools — lately local-first LLM utilities for macOS, al
 
 ## 📌 Featured
 
-<div align="center">
-  <a href="https://github.com/AKaLee-IK27/agent-harness"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AKaLee-IK27&repo=agent-harness&title_color=2C5F2D&icon_color=4E9F3D&text_color=555555&bg_color=F4FBF4&border_color=4E9F3D" alt="agent-harness" /></a>
-  <a href="https://github.com/AKaLee-IK27/owlet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AKaLee-IK27&repo=owlet&title_color=2C5F2D&icon_color=4E9F3D&text_color=555555&bg_color=F4FBF4&border_color=4E9F3D" alt="owlet" /></a>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [agent-harness](https://github.com/AKaLee-IK27/agent-harness)
+
+Governing a Claude + Pi coding fleet: one rule source, a destructive-op safety rail, and a bounded memory design.
+
+![stars](https://img.shields.io/github/stars/AKaLee-IK27/agent-harness?style=flat-square&color=4E9F3D&labelColor=2C5F2D)
+![language](https://img.shields.io/github/languages/top/AKaLee-IK27/agent-harness?style=flat-square&color=4E9F3D&labelColor=2C5F2D)
+![last commit](https://img.shields.io/github/last-commit/AKaLee-IK27/agent-harness?style=flat-square&color=4E9F3D&labelColor=2C5F2D)
+
+</td>
+<td width="50%" valign="top">
+
+#### [owlet](https://github.com/AKaLee-IK27/owlet)
+
+A local-LLM rewriter for macOS: select text, press a hotkey, and it is rewritten in place with an inline diff. On-device, nothing leaves the machine.
+
+![stars](https://img.shields.io/github/stars/AKaLee-IK27/owlet?style=flat-square&color=4E9F3D&labelColor=2C5F2D)
+![language](https://img.shields.io/github/languages/top/AKaLee-IK27/owlet?style=flat-square&color=4E9F3D&labelColor=2C5F2D)
+![last commit](https://img.shields.io/github/last-commit/AKaLee-IK27/owlet?style=flat-square&color=4E9F3D&labelColor=2C5F2D)
+
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4E9F3D,100:2C5F2D&height=3" alt="" />
 
@@ -53,15 +75,6 @@ A lot of my recent work runs through AI coding agents, and I care as much about 
 
 **[agent-harness](https://github.com/AKaLee-IK27/agent-harness)** · Bash · Python<br>
 The sanitized, documented version of that setup: one source of truth for a couple of coding agents, a destructive-op safety rail, and a bounded memory design.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4E9F3D,100:2C5F2D&height=3" alt="" />
-
-## 📊 By the numbers
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AKaLee-IK27&show_icons=true&hide_border=true&title_color=2C5F2D&icon_color=4E9F3D&text_color=555555&bg_color=F4FBF4&ring_color=4E9F3D" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKaLee-IK27&layout=compact&hide_border=true&title_color=2C5F2D&text_color=555555&bg_color=F4FBF4&langs_count=8" alt="Top languages" />
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4E9F3D,100:2C5F2D&height=3" alt="" />
 
