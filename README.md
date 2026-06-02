@@ -6,6 +6,9 @@
   <p><b>🌱 Software Engineering student · UIT, VNU-HCM · Ho Chi Minh City</b></p>
   <p><b>🦉 Local LLMs · macOS · Flutter · Web</b></p>
   <p><i>Turning local AI models, and the agents that wield them, into calm everyday tools.</i></p>
+  <p>
+    <a href="https://anhkhoile.vercel.app"><img src="https://img.shields.io/badge/Portfolio-anhkhoile.vercel.app-4E9F3D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio — anhkhoile.vercel.app" /></a>
+  </p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4E9F3D,100:2C5F2D&height=3" alt="" />
@@ -99,6 +102,7 @@ Comfortable moving across the stack; going deeper right now on Swift/SwiftUI and
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-4E9F3D?style=for-the-badge&logo=vercel&logoColor=white)](https://anhkhoile.vercel.app)
 [![Gmail](https://img.shields.io/badge/khoile0908540@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khoile0908540@gmail.com)
 [![GitHub](https://img.shields.io/badge/@AKaLee--IK27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AKaLee-IK27)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akl0101)
